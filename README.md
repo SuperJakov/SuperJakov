@@ -11,7 +11,7 @@
 
 ## My stats
 
-![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true&theme=shadow_green)
+![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true&theme=shadow_green&hide_rank=true)
 
 - 💬 I'm open source student learning
 
