@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact: Powershell is available for Mac and Linux too (v7)
 
-## BadUsb scripts for Flipper (powershell included)
+## BadUsb scripts for Flipper
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Badusb&theme=shadow_green)
+
+This script includes **powershell**, **badusb** and **documentation**
