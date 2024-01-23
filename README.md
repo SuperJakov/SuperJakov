@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: Powershell is available for Mac and Linux too (v7)
 
-- 🆘 I need help with css ([here]())
+- 🆘 I need help with css ([here](#help-me-by-making-a-pull-request-with-better-css-%EF%B8%8F))
 
 ## BadUsb scripts for Flipper
 
