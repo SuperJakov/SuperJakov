@@ -32,8 +32,6 @@ This script includes **powershell**, **badusb** and **documentation**
 
 ## Password list generator
 
-This is **not done**. 
-
-I'm working on it.
+#### This is not done
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Password-list-generator&theme=shadow_green)
