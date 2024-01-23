@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**SuperJakov/SuperJakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=SuperJakov)
+
+
+- 🌱 I’m currently learning Powershell and c++
+
+- 🤔 I’m looking for help with Powershell (badusb scripts DUCKY v1.0)
+
+- ⚡ Fun fact: Powershell is available for Mac and Linux too (v7)
