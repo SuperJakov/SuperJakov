@@ -24,3 +24,16 @@
 ![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Badusb&theme=shadow_green)
 
 This script includes **powershell**, **badusb** and **documentation**
+
+
+## Chrome extension keylogger
+
+![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Chrome-extension-keylogger&theme=shadow_green)
+
+## Password list generator
+
+This is **not done**. 
+
+I'm working on it.
+
+![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Password-list-generator&theme=shadow_green)
