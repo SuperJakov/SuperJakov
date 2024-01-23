@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,12 +8,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My stats
+
 ![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true&theme=shadow_green)
 
 - 💬 I'm open source student learning
 
 - 🌱 I’m currently learning Powershell and c++
-
-- 🤔 I’m looking for help with Powershell (badusb scripts DUCKY v1.0)
 
 - ⚡ Fun fact: Powershell is available for Mac and Linux too (v7)
