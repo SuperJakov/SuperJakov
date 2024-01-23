@@ -1,4 +1,4 @@
-## My stats
+# My stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true&theme=shadow_green&hide_rank=true)
 
@@ -21,7 +21,7 @@ This script includes **powershell**, **badusb** and **documentation**
 
 ## Password list generator
 
-#### This is not done
+### This is not done
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Password-list-generator&theme=shadow_green)
 
@@ -29,6 +29,6 @@ This script includes **powershell**, **badusb** and **documentation**
 
 ### Just got Flipper Zero?
 
-#### Get started here
+### Get started here
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Flipper-All&theme=shadow_green)
