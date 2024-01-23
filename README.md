@@ -12,6 +12,7 @@
 -->
 ![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true&theme=shadow_green)
 
+- 💬 I'm open source student learning
 
 - 🌱 I’m currently learning Powershell and c++
 
