@@ -24,3 +24,11 @@ This script includes **powershell**, **badusb** and **documentation**
 #### This is not done
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Password-list-generator&theme=shadow_green)
+
+## All for Flipper
+
+### Just got Flipper Zero?
+
+#### Get started here
+
+![](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Flipper-All&theme=shadow_green)
