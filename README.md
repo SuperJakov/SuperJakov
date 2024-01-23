@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=SuperJakov&show_icons=true&theme=shadow_green)
 
 
 - 🌱 I’m currently learning Powershell and c++
