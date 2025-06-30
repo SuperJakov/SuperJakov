@@ -8,8 +8,6 @@
 
 - ⚡ Fun fact: Powershell is available for Mac and Linux too (v7)
 
-- 🆘 I need help with css ([here](#help-me-by-making-a-pull-request-with-better-css-%EF%B8%8F))
-
 ## BadUsb scripts for Flipper
 
 ![Badusb stats](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Badusb&theme=shadow_green)
@@ -23,14 +21,6 @@ This script includes **powershell**, **badusb** and **documentation**
 ## Password list generator
 
 ![Password list generator stats](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Password-list-generator&theme=shadow_green)
-
-## All for Flipper
-
-### Just got Flipper Zero?
-
-### Get started here
-
-![Flipper-all stats](https://github-readme-stats.vercel.app/api/pin?username=SuperJakov&repo=Flipper-All&theme=shadow_green)
 
 ## Base 64 extension
 
